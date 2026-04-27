@@ -1,5 +1,5 @@
 body {
-  background-image: url("gayfishpic.png");
+  background-image: url('/imgs/gayfishpic.png');
   background-size: 100% auto;
   background-repeat: repeat-y;
 }
