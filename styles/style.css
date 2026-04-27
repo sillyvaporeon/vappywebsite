@@ -10,12 +10,11 @@ h1 {
   text-align: center;
 }
 
-div {
+h2 {
   margin: auto;
   max-width: 70%;
   background-color: #73cfea;
   text-align: center;
-  font-size: 1.5em;
 }
 
 p {
