@@ -5,14 +5,22 @@ body {
 h1 {
   margin: auto;
   margin-top: 5%;
-  width: 80%;
+  max-width: 80%;
   background-color: #337298;
   text-align: center;
 }
 
 p {
   margin: auto;
-  width: 70%;
+  max-width: 70%;
   background-color: #73cfea;
   text-align: center;
 }
+
+div {
+  margin: auto;
+  max-width: 80%;
+  background-color: white;
+  text-align: center;
+}
+  
