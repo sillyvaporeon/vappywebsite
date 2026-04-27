@@ -4,12 +4,15 @@ body {
 
 h1 {
   margin: auto;
+  margin-top: 5%;
   width: 80%;
   background-color: #337298;
+  text-align: center;
 }
 
 p {
   margin: auto;
-  width: 60%;
+  width: 70%;
   background-color: #73cfea;
+  text-align: center;
 }
