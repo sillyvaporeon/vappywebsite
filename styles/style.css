@@ -46,7 +46,8 @@ img.fih {
   border-radius: 0%;
   max-width: 40%;
   max-height: auto;
-  margin: 2%;
+  margin: 2% 0% 2% 0%;
+  margin: auto;
 }
 
 h2 {
