@@ -3,7 +3,7 @@ body {
   background-size: 12.5%, 100%;
   background-position: left top repeat, center;
   background-attachment: fixed, scroll;
-  background-repeat: repeat-x, repeat;
+  background-repeat: repeat, repeat-x;
 }
 
 h1 {
