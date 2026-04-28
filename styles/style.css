@@ -13,7 +13,7 @@ h1 {
   border-radius: 20%;
   outline-style: groove;
   outline-color: #1E2D59;
-  outline-width: 5px;
+  outline-width: 8px;
 }
 
 div {
@@ -26,20 +26,20 @@ div {
   padding: 1%;
   outline-style: groove;
   outline-color: #2b377f;
-  outline-width: 5px;
+  outline-width: 8px;
 }
 
 div.footbar {
   margin: auto;
   margin-top: 2%;
   max-width: 70%;
-  background-color: #73cfea;
+  background-color: #96d6e8;
   text-align: center;
-  border-radius: 20%;
+  border-radius: 5%;
   padding: 1%;
   outline-style: groove;
   outline-color: #2b377f;
-  outline-width: 5px;
+  outline-width: 8px;
 }
 
 h2 {
