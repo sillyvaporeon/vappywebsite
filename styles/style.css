@@ -10,10 +10,10 @@ h1 {
   background-color: #337298;
   text-align: center;
   padding: 1%;
-  border-radius: 5%;
+  border-radius: 20%;
   outline-style: groove;
   outline-color: #1E2D59;
-  outline-width: 12px;
+  outline-width: 5px;
 }
 
 div {
@@ -22,11 +22,11 @@ div {
   max-width: 35%;
   background-color: #73cfea;
   text-align: center;
-  border-radius: 8%;
+  border-radius: 20%;
   padding: 1%;
   outline-style: groove;
   outline-color: #2b377f;
-  outline-width: 12px;
+  outline-width: 5px;
 }
 
 div.footbar {
@@ -35,11 +35,11 @@ div.footbar {
   max-width: 70%;
   background-color: #73cfea;
   text-align: center;
-  border-radius: 8%;
+  border-radius: 20%;
   padding: 1%;
   outline-style: groove;
   outline-color: #2b377f;
-  outline-width: 12px;
+  outline-width: 5px;
 }
 
 h2 {
