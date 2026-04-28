@@ -53,6 +53,14 @@ img.fih {
   max-height: auto;
 }
 
+img.gradient2 {
+  background-image: url(/imgs/gradient2.png);
+  background-repeat: repeat-x;
+  z-index: -1;
+  background-position: center;
+  background-attachment: scroll;
+  opacity: 0.8;
+
 h2 {
   max-width: 100%;
   margin: auto;
