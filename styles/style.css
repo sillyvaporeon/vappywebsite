@@ -42,6 +42,17 @@ div.footbar {
   outline-width: 8px;
 }
 
+div.fih {
+  margin: 2% auto 2% auto;
+  border: 5px groove #676767;
+  max-width: 60%;
+}
+
+div.fih img {
+  width: 100%;
+  height: auto;
+}  
+
 h2 {
   max-width: 100%;
   margin: auto;
