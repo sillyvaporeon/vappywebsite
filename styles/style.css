@@ -45,7 +45,9 @@ div.footbar {
 div.fih {
   margin: 2% auto 2% auto;
   border: 5px groove #676767;
-  max-width: 60%;
+  border-radius: 0%;
+  padding: 0%;
+  max-width: 40%;
 }
 
 div.fih img {
