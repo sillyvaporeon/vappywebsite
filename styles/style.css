@@ -1,9 +1,9 @@
 body {
-  background-image: url('/imgs/gradient.png'), url('/imgs/gradient2.png');
-  background-size: 12.5%, auto;
-  background-position: left top, left center;
-  background-attachment: fixed, scroll;
-  background-repeat: repeat, repeat-x;
+  background-image: url('/imgs/gradient2.png'), url('/imgs/gradient.png');
+  background-size: auto, 12.5%;
+  background-position: left center, left top;
+  background-attachment: scroll, fixed;
+  background-repeat: repeat-x, repeat;
 }
 
 h1 {
