@@ -16,7 +16,7 @@ h1 {
   outline-width: 8px;
 }
 
-div.main {
+div {
   margin: auto;
   margin-top: 2%;
   max-width: 35%;
@@ -45,12 +45,9 @@ div.fih {
   border: 5px groove #676767;
   border-radius: 0%;
   max-width: 40%;
+  max-height: auto;
+  background-image: url('imgs/gayfishpic.png');
 }
-
-div.fih img {
-  width: 100%;
-  height: auto;
-}  
 
 h2 {
   max-width: 100%;
