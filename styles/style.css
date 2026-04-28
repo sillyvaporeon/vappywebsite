@@ -16,7 +16,7 @@ h1 {
   outline-width: 8px;
 }
 
-div {
+div.main {
   margin: auto;
   margin-top: 2%;
   max-width: 35%;
