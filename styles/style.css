@@ -59,8 +59,9 @@ img.gradient2 {
   z-index: -1;
   background-position: center;
   background-attachment: scroll;
-  opacity: 0.8;
-  position: static;
+  opacity: 0.5;
+  position: sticky;
+  top: 50%;
 }
 
 h2 {
