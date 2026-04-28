@@ -11,6 +11,9 @@ h1 {
   text-align: center;
   padding: 1%;
   border-radius: 5%;
+  outline-style: groove;
+  outline-color: #1E2D59;
+  outline-width: 12px;
 }
 
 div {
@@ -21,6 +24,9 @@ div {
   text-align: center;
   border-radius: 8%;
   padding: 1%;
+  outline-style: groove;
+  outline-color: #2b377f;
+  outline-width: 12px;
 }
 
 div.footbar {
@@ -31,6 +37,9 @@ div.footbar {
   text-align: center;
   border-radius: 8%;
   padding: 1%;
+  outline-style: groove;
+  outline-color: #2b377f;
+  outline-width: 12px;
 }
 
 h2 {
