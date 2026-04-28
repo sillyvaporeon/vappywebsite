@@ -41,13 +41,17 @@ div.footbar {
   outline-width: 8px;
 }
 
-img.fih {
-  display: block;
-  border: 5px groove #676767;
+div.fih {
   border-radius: 0%;
-  max-width: 40%;
-  max-height: auto;
+  border: 5px groove #676767;
   margin: 2% auto 2%;
+  background-color: white;
+}
+
+img.fih {
+  border: 5px groove #676767;
+  max-width: 100%;
+  max-height: auto;
 }
 
 h2 {
