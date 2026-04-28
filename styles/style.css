@@ -2,7 +2,7 @@ body {
   background-image: url('/imgs/gradient2.png'), url('/imgs/gradient.png');
   background-size: auto, 12.5%;
   background-position: center top, left top;
-  background-attachment: scroll, fixed;
+  background-attachment: scroll, scroll;
   background-repeat: repeat-x, repeat;
 }
 
