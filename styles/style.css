@@ -49,7 +49,6 @@ div.fih {
 }
 
 img.fih {
-  border: 5px groove #676767;
   max-width: 100%;
   max-height: auto;
 }
@@ -65,5 +64,9 @@ p {
   margin: auto;
   max-width: 80%;
   text-align: center;
+}
+
+p.fih {
+  padding: 10px;
 }
   
