@@ -41,12 +41,12 @@ div.footbar {
   outline-width: 8px;
 }
 
-div.fih {
+img.fih {
   border: 5px groove #676767;
   border-radius: 0%;
   max-width: 40%;
   max-height: auto;
-  background-image: url('imgs/gayfishpic.png');
+  margin: 2%;
 }
 
 h2 {
