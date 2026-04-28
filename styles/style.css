@@ -1,6 +1,9 @@
 body {
-  background-image: url('/imgs/gradient.png');
-  background-size: 12.5%;
+  background-image: url('/imgs/gradient.png'), url('/imgs/gradient2.png');
+  background-size: 12.5%, 100%;
+  background-position: left top repeat, center;
+  background-attachment: fixed, scroll;
+  background-repeat: repeat-x, repeat;
 }
 
 h1 {
@@ -51,17 +54,6 @@ div.fih {
 img.fih {
   max-width: 100%;
   max-height: auto;
-}
-
-img.gradient2 {
-  background-image: url(/imgs/gradient2.png);
-  background-repeat: repeat-x;
-  z-index: -1;
-  background-position: center;
-  background-attachment: scroll;
-  opacity: 0.5;
-  position: sticky;
-  top: 50%;
 }
 
 h2 {
