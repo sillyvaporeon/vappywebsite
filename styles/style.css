@@ -60,6 +60,8 @@ img.gradient2 {
   background-position: center;
   background-attachment: scroll;
   opacity: 0.8;
+  position: static;
+}
 
 h2 {
   max-width: 100%;
