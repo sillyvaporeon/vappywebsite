@@ -1,7 +1,6 @@
 body {
   background-image: url('/imgs/gradient.png');
   background-size: 12.5%;
-  z-index: -2;
 }
 
 h1 {
