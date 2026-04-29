@@ -45,6 +45,7 @@ div.drop {
   margin-top: 0%;
   border-radius: 0px;
   height:100%;
+  top: 0;
 }
 
 button.drop {
@@ -60,6 +61,7 @@ button.drop {
   cursor: pointer;
   display: inline-block;
   height:100%;
+  top: 0;
 }
 
 div.dropcont {
