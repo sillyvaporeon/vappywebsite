@@ -38,7 +38,7 @@ a.button:hover {
 div.drop {
   background-color: #404040;
   position: relative;
-  border: none;
+  border: 2px #404040;
   outline: none;
   display: inline-block;
   max-width: 10%;
