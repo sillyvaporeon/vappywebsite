@@ -58,6 +58,7 @@ div.dropcont {
   outline: none;
   margin: 0px;
   border-radius: 0px;
+  padding: 3vh 40px;
 }
 
 div.dropcont a {
