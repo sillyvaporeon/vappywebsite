@@ -120,6 +120,15 @@ p {
   padding: 8px;
 }
 
+blockquote {
+  margin: auto;
+  max-width: 80%;
+  text-align: center;
+  padding: 8px;
+  opacity: 0.8;
+  font-size: 0.8em;
+}
+
 p.fih {
   padding: 10px;
 }
