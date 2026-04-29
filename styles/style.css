@@ -43,7 +43,8 @@ div.drop {
   outline: none;
   margin: 0px;
   border-radius: 0px;
-  max-width:10%;
+  max-width: 10%;
+  height: 100%;
 }
 
 button.drop {
