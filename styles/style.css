@@ -16,7 +16,7 @@ header {
   position: sticky;
 }
 
-button {
+a.header {
   background-color: #404040;
   width:10%;
   height: 100%;
@@ -25,10 +25,19 @@ button {
   font-color: white;
 }
 
-button:hover {
+a.header:link {
+  font-color: white;
+}
+
+a.header:visited {
+  font-color: #7bcfe1;
+}
+
+a.header:hover {
   background-color: #a0a0a0;
-  font-color: black;
-  font-size: 1.1em;
+  font-color: red;
+}
+  
 .vlrt {
   font-family: "Times New Roman", serif;
 }
