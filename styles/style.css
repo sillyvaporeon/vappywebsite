@@ -36,17 +36,23 @@ a.button:hover {
 }
 
 div.drop {
-  background-color: #404040;
-  color: white;
-  padding: 3vh 40px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
   position: relative;
   border: none;
   outline: none;
   margin: 0px;
   border-radius: 0px;
+}
+
+button.drop {
+  background-color: #404040;
+  color: white;
+  padding: 3vh 40px;
+  text-align: center;
+  border: none;
+  outline: none;
+  margin: 0px;
+  border-radius: 0px;
+  cursor: pointer;
 }
 
 div.dropcont {
