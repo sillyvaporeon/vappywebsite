@@ -37,16 +37,16 @@ a.button:hover {
 
 div.drop {
   background-color: #404040;
+  color: white;
   position: relative;
   border: 2px #404040;
+  padding: 3vh 40px;
   outline: none;
   display: inline-block;
   max-width: 10%;
   margin-top: 0%;
   margin: none;
   border-radius: 0px;
-  height:100%;
-  top: 0;
 }
 
 div.dropcont {
