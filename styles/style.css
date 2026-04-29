@@ -17,7 +17,7 @@ header {
 }
 
 button {
-  background-color: #404040;
+  background-color: #a0a0a0;
   width:10%;
   height: 100%;
   margin: 0;
@@ -25,18 +25,11 @@ button {
   font-color: white;
   text-align: center;
   vertical-align: middle;
+  font-size: 2em;
 }
 
 button:hover {
-  background-color: #a0a0a0;
-}
-
-a:link, a:visited {
-  font-color: white;
-}
-
-a:hover, a:active {
-  font-color: black;
+  background-color: #ffffff;
 }
   
 .vlrt {
