@@ -35,7 +35,7 @@ a.button:hover {
   display: inline-block;
 }
 
-div.drop {
+span.drop {
   background-color: #404040;
   position: relative;
   display:inline-block;
