@@ -16,7 +16,7 @@ header {
   position: sticky;
 }
 
-a.header:link, a.header:visited {
+button {
   background-color: #404040;
   width:10%;
   height: 100%;
@@ -25,8 +25,15 @@ a.header:link, a.header:visited {
   font-color: white;
 }
 
-a.header:hover, a.header:active {
+button:hover {
   background-color: #a0a0a0;
+}
+
+a:link, a:visited {
+  font-color: white;
+}
+
+a:hover, a:active {
   font-color: black;
 }
   
