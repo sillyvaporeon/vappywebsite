@@ -46,17 +46,18 @@ div.drop {
   border: none;
   outline: none;
   margin: 0px;
+  border-radius: 0px;
 }
 
 div.dropcont {
   display: none;
   position: absolute;
   background-color: white;
-  top: 3vh;
   min-width: 160px;
   border: none;
   outline: none;
   margin: 0px;
+  border-radius: 0px;
 }
 
 div.dropcont a {
