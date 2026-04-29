@@ -57,6 +57,7 @@ button.drop {
   border-radius: 0px;
   font-family: "Lucida Console", monospace;
   cursor: pointer;
+  display: inline-block;
 }
 
 div.dropcont {
