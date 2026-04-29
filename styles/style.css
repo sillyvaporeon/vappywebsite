@@ -4,6 +4,7 @@ body {
   background-position: center top, left top;
   background-attachment: scroll, scroll;
   background-repeat: repeat-x, repeat;
+  font-family: "Lucida Console", monospace;
 }
 
 h1 {
