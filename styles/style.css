@@ -51,6 +51,18 @@ div.fih {
   background-color: white;
 }
 
+div.2 {
+  margin: auto;
+  margin-top: 2%;
+  max-width: 75%;
+  background-color: #73cfea;
+  text-align: center;
+  border-radius: 20%;
+  outline-style: groove;
+  outline-color: #2b377f;
+  outline-width: 8px;
+}
+
 .contain {
   max-width: 90%;
   display: flex;
