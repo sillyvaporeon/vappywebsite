@@ -82,7 +82,7 @@ div.widea {
   outline-color: #2b377f;
   outline-width: 6px;
   margin: 12px;
-  padding: 16px;
+  padding: 10px;
 }
 
 .contain div:hover {
@@ -93,6 +93,7 @@ div.widea {
 
 .contain p {
   font-size: 1.5em;
+  vertical-align: middle;
 }
 
 img.fih {
