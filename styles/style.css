@@ -60,7 +60,7 @@ div.fih {
   justify-content: center;
 }
 
-div.item {
+.contain div {
   background-color: #73cfea;
   max-width: 25%;
   text-align: center;
