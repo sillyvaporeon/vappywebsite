@@ -69,15 +69,15 @@ div.widea {
   background-color: rgba(0, 0, 0, 0.0);
   border: none;
   outline: none;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .contain div {
   background-color: #73cfea;
-  max-width: 25%;
+  max-width: 30%;
   text-align: center;
   vertical-align: middle;
-  border-radius: 20%;
+  border-radius: 15%;
   outline-style: groove;
   outline-color: #2b377f;
   outline-width: 6px;
