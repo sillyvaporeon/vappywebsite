@@ -52,7 +52,6 @@ div.footbar {
 div.fih {
   border-radius: 0%;
   border: 5px groove #676767;
-  margin: 2% auto 2%;
   background-color: white;
   transform: scale(0.75, 0.75)
 }
