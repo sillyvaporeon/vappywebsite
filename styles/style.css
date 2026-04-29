@@ -55,6 +55,7 @@ button.drop {
   outline: none;
   margin: 0px;
   border-radius: 0px;
+  font-family: "Lucida Console", monospace;
   cursor: pointer;
 }
 
