@@ -38,11 +38,12 @@ a.button:hover {
 div.drop {
   background-color: #404040;
   position: relative;
+  display:inline-block;
   border: none;
   outline: none;
   margin: 0px;
   border-radius: 0px;
-  max-width:16%;
+  max-width:10%;
 }
 
 button.drop {
@@ -84,6 +85,10 @@ div.drop:hover .dropcont {
 }
 
 .drop:hover {
+  background-color: #a0a0a0;
+}
+
+.drop a:hover {
   background-color: #a0a0a0;
 }
   
