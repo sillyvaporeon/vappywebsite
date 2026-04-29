@@ -53,8 +53,8 @@ div.fih {
   border-radius: 0%;
   border: 5px groove #676767;
   background-color: white;
-  transform: scale(0.75, 0.75)
   outline: none;
+  transform: scale(0.75, 0.75);
 }
 
 div.widea {
