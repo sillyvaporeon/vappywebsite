@@ -51,10 +51,10 @@ div.footbar {
 
 div.fih {
   border-radius: 0%;
+  max-width: 67%;
   border: 5px groove #676767;
   background-color: white;
   outline: none;
-  transform: scale(0.75, 0.75);
 }
 
 div.widea {
