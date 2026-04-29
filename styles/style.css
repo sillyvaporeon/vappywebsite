@@ -51,6 +51,30 @@ div.fih {
   background-color: white;
 }
 
+.contain {
+  max-width: 90%;
+  display: flex;
+  background-color: rgba(0, 0, 0, 0,);
+  border: none;
+  outline: none;
+  justify-content: center;
+}
+
+.contain div {
+  background-color: #73cfea;
+  text-align: center;
+  border-radius: 20%;
+  outline-style: groove;
+  outline-color: #2b377f;
+  outline-width: 6px;
+  margin: 12px;
+  padding: 16px;
+}
+
+.contain p {
+  font-size: 1.5em;
+}
+
 img.fih {
   max-width: 100%;
   max-height: auto;
