@@ -42,6 +42,7 @@ div.drop {
   outline: none;
   margin: 0px;
   border-radius: 0px;
+  max-width:16%;
 }
 
 button.drop {
@@ -82,7 +83,7 @@ div.drop:hover .dropcont {
   display: block;
 }
 
-div.drop:hover {
+.drop:hover {
   background-color: #a0a0a0;
 }
   
