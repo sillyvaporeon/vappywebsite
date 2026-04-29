@@ -7,6 +7,10 @@ body {
   font-family: "Lucida Console", monospace;
 }
 
+.vlrt {
+  font-family: font-family: "Times New Roman", serif;
+}
+
 h1 {
   margin: auto;
   margin-top: 3%;
