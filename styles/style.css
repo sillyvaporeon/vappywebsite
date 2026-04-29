@@ -13,6 +13,7 @@ header {
   margin: 0;
   top: 0;
   position: sticky;
+  height: 7vh;
 }
 
 a.button {
@@ -20,6 +21,7 @@ a.button {
   color: white;
   border: 2px #a0a0a0;
   padding: 3vh 40px;
+  height: 1vh;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -30,6 +32,7 @@ a.button:hover {
   color: black;
   border: 2px #a0a0a0;
   padding: 3vh 40px;
+  height: 1vh;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -40,6 +43,7 @@ div.drop {
   color: white;
   position: relative;
   border: 2px #404040;
+  height: 1vh;
   padding: 3vh 40px;
   outline: none;
   display: inline-block;
@@ -58,7 +62,8 @@ div.dropcont {
   outline: none;
   margin: 0px;
   border-radius: 0px;
-  top:3vh;
+  top:7vh;
+  right:40px;
 }
 
 div.dropcont a {
