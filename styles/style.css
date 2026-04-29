@@ -43,7 +43,7 @@ div.drop {
   display: inline-block;
   max-width: 10%;
   margin-top: 0%;
-  padding: 3vh 40px;
+  border-radius: 0px;
 }
 
 button.drop {
