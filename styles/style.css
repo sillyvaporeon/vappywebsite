@@ -43,6 +43,9 @@ div.drop {
   text-decoration: none;
   display: inline-block;
   position: relative;
+  border: none;
+  outline: none;
+  margin: 0px;
 }
 
 div.dropcont {
@@ -51,6 +54,9 @@ div.dropcont {
   background-color: white;
   top: 3vh;
   min-width: 160px;
+  border: none;
+  outline: none;
+  margin: 0px;
 }
 
 div.dropcont a {
