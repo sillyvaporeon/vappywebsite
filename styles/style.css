@@ -38,14 +38,6 @@ a.button:hover {
 span.drop {
   background-color: #404040;
   position: relative;
-  display:inline-block;
-  border: none;
-  outline: none;
-  margin: 0px;
-  margin-top: 0%;
-  border-radius: 0px;
-  max-width: 10%;
-  height: 100%;
 }
 
 button.drop {
