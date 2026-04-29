@@ -133,6 +133,13 @@ p {
   padding: 8px;
 }
 
+p.nospace {
+  margin: auto;
+  max-width: 80%;
+  text-align: center;
+  padding: 0px;
+}
+
 blockquote {
   margin: auto;
   max-width: 80%;
