@@ -72,6 +72,12 @@ div.fih {
   padding: 16px;
 }
 
+.contain div:hover {
+  background-color: #bff1ff;
+  outline-color: #292c3f;
+  transform: scale(1.2, 1.2);
+}
+
 .contain p {
   font-size: 1.5em;
 }
