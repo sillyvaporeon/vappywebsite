@@ -72,7 +72,7 @@ div.dropcont a {
 }
 
 div.dropcont a:hover {
-  background-image: linear-gradient(to bottom, #a0a0a0, rgba(140, 140, 200, 0.65));
+  background-color: rgba(140, 140, 200, 0.65);
 }
 
 div.drop:hover .dropcont {
