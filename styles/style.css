@@ -22,7 +22,7 @@ a.button {
   background-color: #404040;
   color: white;
   border: 2px #a0a0a0;
-  padding: 15% 40px;
+  padding: 2% 40px;
   text-align: center;
   text-decoration: none;
 }
@@ -31,7 +31,7 @@ a.button:hover {
   background-color: #a0a0a0;
   color: black;
   border: 2px #a0a0a0;
-  padding: 15% 40px;
+  padding: 2% 40px;
   text-align: center;
   text-decoration: none;
 }
@@ -42,7 +42,7 @@ div.drop {
   color: white;
   position: relative;
   border: 2px #404040;
-  padding: 15% 40px;
+  padding: 2% 40px;
   outline: none;
   max-width: 10%;
   margin-top: 0%;
@@ -59,8 +59,6 @@ div.dropcont {
   outline: none;
   margin: 0px;
   border-radius: 0px;
-  top:7vh;
-  right:0px;
 }
 
 div.dropcont a {
