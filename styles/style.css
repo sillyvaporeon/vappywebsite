@@ -47,7 +47,8 @@ header div.drop {
   border: 2px #404040;
   padding: 2% 40px;
   outline: none;
-  max-width: 10%;
+  max-width: 25%;
+  right: 0;
   margin-top: 0%;
   margin: none;
   border-radius: 25px;
