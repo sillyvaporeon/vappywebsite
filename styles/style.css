@@ -13,44 +13,37 @@ header {
   margin: 0;
   top: 0;
   position: sticky;
-  height: 7vh;
+  height: 5%;
+  display: inline-flex;
+  align-items: center;
 }
 
 a.button {
   background-color: #404040;
   color: white;
   border: 2px #a0a0a0;
-  padding: 3vh 40px;
-  height: 1vh;
+  padding: 15% 40px;
   text-align: center;
-  vertical-align: middle;
   text-decoration: none;
-  display: inline-block;
 }
 
 a.button:hover {
   background-color: #a0a0a0;
   color: black;
   border: 2px #a0a0a0;
-  padding: 3vh 40px;
-  height: 1vh;
+  padding: 15% 40px;
   text-align: center;
-  vertical-align: middle;
   text-decoration: none;
-  display: inline-block;
 }
 
 div.drop {
   background-color: #404040;
   text-align: center;
-  vertical-align: middle;
   color: white;
   position: relative;
   border: 2px #404040;
-  height: 1vh;
-  padding: 3vh 40px;
+  padding: 15% 40px;
   outline: none;
-  display: inline-block;
   max-width: 10%;
   margin-top: 0%;
   margin: none;
