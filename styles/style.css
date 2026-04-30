@@ -9,9 +9,10 @@ body {
 
 header {
   background-color: rgba(103, 103, 128, 0.65);
-  width: 100%;
+  max-width: 50%;
   margin: 0;
   top: 0;
+  left: 0;
   position: sticky;
   height: 5%;
   display: flex;
