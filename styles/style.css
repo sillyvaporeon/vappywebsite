@@ -8,7 +8,8 @@ body {
 }
 
 header {
-  background-color: rgba(103, 103, 128, 0.65);
+  background-color: rgba(103, 103, 128, 0;
+  background-image: linear-gradient(to right, rgba(103, 103, 128, 1), rgba(103, 103, 128, 0.2));
   min-width: 25%;
   width: 25%;
   margin: 0;
@@ -22,7 +23,7 @@ header {
 }
 
 header a.button {
-  background-image: linear-gradient(to right, #404040, rgba(96, 96, 96, 0.35));
+  background-image: linear-gradient(to bottom, #404040, rgba(96, 96, 96, 0.65));
   color: white;
   border: 2px #a0a0a0;
   padding: 2% 5%;
