@@ -57,7 +57,7 @@ div.dropcont {
   display: none;
   position: absolute;
   background-image: linear-gradient(to bottom, white, rgba(255, 255, 255, 0.65));
-  width: 155px;
+  min-width: 155px;
   border: none;
   outline: none;
   top: 100%;
