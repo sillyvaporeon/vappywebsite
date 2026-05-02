@@ -178,13 +178,12 @@ div.smalla {
 }
 
 div.source {
-  margin: auto;
+  margin: 5%;
   max-width: 80%;
   background-color: #909090;
   text-align: center;
   border-radius: 10%;
   outline: none;
-  margin-bottom: 3%;
 }
 
 div.source p {
