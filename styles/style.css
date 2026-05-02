@@ -7,6 +7,8 @@ body {
   font-family: "Lucida Console", monospace;
 }
 
+/* Header section */
+
 header {
   background-color: rgba(103, 103, 128, 0);
   background-image: linear-gradient(to right, rgba(103, 103, 128, 1), rgba(103, 103, 128, 0.2));
@@ -94,10 +96,14 @@ div.drop:hover .dropcont {
   background-image: linear-gradient(to bottom, #a0a0a0, rgba(140, 140, 200, 0.65));
   border-radius: 15px;
 }
+
+/* lucida console doesn't like the voiceless retroflex trill */
   
 .vlrt {
   font-family: "Times New Roman", serif;
 }
+
+/* heading */
 
 h1 {
   margin: auto;
@@ -111,6 +117,8 @@ h1 {
   outline-color: #1E2D59;
   outline-width: 8px;
 }
+
+/* div and classes */
 
 div {
   margin: auto;
@@ -157,6 +165,20 @@ div.widea {
   outline-width: 8px;
 }
 
+div.smalla {
+  margin: auto;
+  margin-top: 2%;
+  max-width: 40%;
+  background-color: #73cfea;
+  text-align: center;
+  border-radius: 20%;
+  outline-style: groove;
+  outline-color: #2b377f;
+  outline-width: 8px;
+}
+
+/* flexbox contain section */
+
 .contain {
   max-width: 90%;
   display: flex;
@@ -193,6 +215,8 @@ img.fih {
   max-width: 100%;
   max-height: auto;
 }
+
+/* others */
 
 h2 {
   max-width: 80%;
