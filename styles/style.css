@@ -178,7 +178,7 @@ div.smalla {
 }
 
 div.source {
-  margin: 5%;
+  margin: 5% auto;
   max-width: 80%;
   background-color: #909090;
   text-align: center;
