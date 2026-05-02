@@ -193,7 +193,7 @@ div.smalla {
 div.source {
   margin: auto;
   max-width: 80%;
-  background-color: #909090;
+  background-color: rgba(134, 134, 134, 0.75);
   text-align: center;
   border-radius: 10%;
   outline: none;
