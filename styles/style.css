@@ -165,6 +165,19 @@ div.widea {
   outline-width: 8px;
 }
 
+div.wideb {
+  margin: auto;
+  margin-top: 2%;
+  max-width: 85%;
+  padding: 3%;
+  background-color: #73cfea;
+  text-align: center;
+  border-radius: 20%;
+  outline-style: groove;
+  outline-color: #2b377f;
+  outline-width: 8px;
+}
+
 div.smalla {
   margin: auto;
   margin-top: 2%;
@@ -178,8 +191,8 @@ div.smalla {
 }
 
 div.source {
-  margin: 5% auto;
-  max-width: 80%;
+  margin: auto;
+  max-width: 90%;
   background-color: #909090;
   text-align: center;
   border-radius: 10%;
