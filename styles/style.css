@@ -177,6 +177,19 @@ div.smalla {
   outline-width: 8px;
 }
 
+div.source {
+  margin: auto;
+  max-width: 80%;
+  background-color: #909090;
+  text-align: center;
+  border-radius: 10%;
+  outline: none;
+}
+
+div.source p {
+  font-size: 0.8em;
+}
+
 /* flexbox contain section */
 
 .contain {
