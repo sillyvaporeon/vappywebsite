@@ -233,10 +233,6 @@ div.source p {
   transform: scale(1.2, 1.2);
 }
 
-.contain p {
-  font-size: 1.5em;
-}
-
 img.fih {
   max-width: 100%;
   max-height: auto;
