@@ -208,10 +208,12 @@ div.source p {
 .contain {
   max-width: 90%;
   display: flex;
+  flex-wrap: wrap;
   background-color: rgba(0, 0, 0, 0.0);
   border: none;
   outline: none;
-  justify-content: space-evenly;
+  justify-content: center;
+  align-items: center;
 }
 
 .contain div {
