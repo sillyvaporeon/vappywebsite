@@ -189,6 +189,21 @@ div.smalla {
   outline-width: 8px;
 }
 
+div.smallb {
+  margin: auto;
+  max-width: 35%;
+  background-color: #99E7FF;
+  text-align: center;
+  border-radius: 12%;
+  outline-style: groove;
+  outline-color: #134d7f;
+  outline-width: 10px;
+}
+
+div.smallb h3 {
+  font-size: 1.1em;
+}
+
 div.source {
   margin: auto;
   max-width: 80%;
@@ -204,6 +219,15 @@ div.source p {
 }
 
 /* flexbox contain section */
+
+div.overcont {
+  max-width: 100%;
+  display: inline-block;
+  background-color: rgba(0, 0, 0, 0.0);
+  border: none;
+  outline: none;
+  margin: none;
+}
 
 .contain {
   max-width: 90%;
@@ -244,6 +268,8 @@ div.source p {
   outline: none;
   justify-content: center;
   align-items: center;
+  margin: auto;
+  margin-top: 0px;
 }
 
 .containB div {
