@@ -227,7 +227,7 @@ div.overcont {
   background-color: rgba(0, 0, 0, 0.0);
   border: none;
   outline: none;
-  margin: none;
+  margin: 1% auto;
 }
 
 .contain {
