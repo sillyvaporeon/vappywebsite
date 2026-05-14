@@ -190,8 +190,7 @@ div.smalla {
 }
 
 div.smallb {
-  margin: auto;
-  margin-top: 3%;
+  margin: 3% auto;
   max-width: 35%;
   background-color: #99E7FF;
   text-align: center;
