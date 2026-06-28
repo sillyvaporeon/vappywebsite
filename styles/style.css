@@ -43,7 +43,7 @@ header a.button {
 h1 {
   margin: auto;
   margin-top: 3%;
-  max-width: 80%;
+  max-width: 80vw;
   background-color: #337298;
   text-align: center;
   color: white;
@@ -60,10 +60,10 @@ h1 {
 div {
   margin: auto;
   margin-top: 2%;
-  max-width: 60%;
+  max-width: 60vw;
   background-color: #73cfea;
   text-align: center;
-  border-radius: 20%;
+  border-radius: 20px;
   outline-style: groove;
   outline-color: #2b377f;
   outline-width: 8px;
@@ -72,10 +72,10 @@ div {
 div.footbar {
   margin: auto;
   margin-top: 2%;
-  max-width: 70%;
+  max-width: 90vw;
   background-color: #96d6e8;
   text-align: center;
-  border-radius: 5%;
+  border-radius: 5px;
   padding: 1%;
   outline-style: groove;
   outline-color: #2b377f;
