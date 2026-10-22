@@ -24,8 +24,8 @@ header {
   min-width: 35%;
   width: 35%;
   margin: 0;
-  top: 0;
-  left: 0;
+  top: 1%;
+  left: 3%;
   position: sticky;
   height: 5%;
   display: flex;
