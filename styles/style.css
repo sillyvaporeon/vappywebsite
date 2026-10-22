@@ -72,7 +72,7 @@ div {
 div.footbar {
   margin: auto;
   margin-top: 2%;
-  width: 100%;
+  width: 100vw;
   background-color: #96d6e8;
   text-align: center;
   padding: 1%;
