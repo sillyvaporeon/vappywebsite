@@ -5,6 +5,15 @@ body {
   background-attachment: scroll, scroll;
   background-repeat: repeat-x, repeat;
   font-family: "Lucida Console", monospace;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
 }
 
 /* Header section */
