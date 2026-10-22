@@ -72,14 +72,10 @@ div {
 div.footbar {
   margin: auto;
   margin-top: 2%;
-  max-width: 90vw;
+  max-width: 100vw;
   background-color: #96d6e8;
   text-align: center;
-  border-radius: 5px;
   padding: 1%;
-  outline-style: groove;
-  outline-color: #2b377f;
-  outline-width: 8px;
 }
 
 div.fih {
