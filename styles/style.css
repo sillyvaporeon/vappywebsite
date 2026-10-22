@@ -76,6 +76,8 @@ div.footbar {
   background-color: #96d6e8;
   text-align: center;
   padding: 1%;
+  border: none;
+  outline: none;
 }
 
 div.fih {
