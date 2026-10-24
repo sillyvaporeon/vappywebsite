@@ -189,6 +189,19 @@ div.source p {
   max-width: 95%;
 }
 
+/* collapsible section for button in vépárpup.html */
+
+button.lore {
+  background-color: #3f4f54;
+  color: #ddd;
+  cursor: pointer;
+  padding: 8px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+}
+
 /* flexbox contain section */
 
 div.overcont {
