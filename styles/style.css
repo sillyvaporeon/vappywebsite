@@ -191,7 +191,7 @@ div.source p {
 
 /* collapsible section for button in vépárpup.html */
 
-button.lore {
+button.loreCollapse {
   background-color: #3f4f54;
   color: #ddd;
   cursor: pointer;
