@@ -202,6 +202,17 @@ button.loreCollapse {
   outline: none;
 }
 
+div.loreCont {
+  margin: 0;
+  padding: 0 6px;
+  border: none;
+  outline: none;
+  background-color: #cdddf3;
+  color: #000;
+  display: none;
+  overflow: hidden;
+}
+
 /* flexbox contain section */
 
 div.overcont {
