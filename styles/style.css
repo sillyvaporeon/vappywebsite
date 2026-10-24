@@ -191,7 +191,7 @@ div.source p {
 
 /* collapsible section for button in vépárpup.html */
 
-button.loreCollapse {
+button.collapse {
   background-color: #3f4f54;
   color: #ddd;
   cursor: pointer;
@@ -202,15 +202,15 @@ button.loreCollapse {
   outline: none;
 }
 
-div.loreCont {
+div.lorecontent {
   margin: 0;
   padding: 0 6px;
   border: none;
   outline: none;
-  background-color: #cdddf3;
-  color: #000;
   display: none;
   overflow: hidden;
+  background-color: #cdddf3;
+  color: #000000;
 }
 
 /* flexbox contain section */
