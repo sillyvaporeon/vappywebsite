@@ -206,7 +206,9 @@ details summary {
 
 details p {
   padding: 2px;
-  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  text-align: left;
   border: none;
   outline: none;
   background-color: #cdddf3;
