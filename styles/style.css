@@ -197,6 +197,7 @@ button.collapse {
   cursor: pointer;
   padding: 8px;
   width: 100%;
+  margin-top: 10px;
   border: none;
   text-align: left;
   outline: none;
