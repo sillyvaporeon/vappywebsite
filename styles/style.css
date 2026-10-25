@@ -191,25 +191,24 @@ div.source p {
 
 /* collapsible section for button in vépárpup.html */
 
-button.collapse {
+details summary {
   background-color: #3f4f54;
   color: #ddd;
+  font-size: 134%;
   cursor: pointer;
-  padding: 8px;
+  padding: 4px;
   width: 100%;
-  margin-top: 10px;
+  margin-top: 30px;
   border: none;
   text-align: left;
   outline: none;
 }
 
-div.lorecontent {
-  margin: 0;
-  padding: 0 6px;
+details p {
+  padding: 2px;
+  width: 100%;
   border: none;
   outline: none;
-  display: none;
-  overflow: hidden;
   background-color: #cdddf3;
   color: #000000;
 }
