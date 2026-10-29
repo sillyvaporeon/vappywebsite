@@ -4,6 +4,7 @@ function swimForth() {
 
 const snd = document.getElementById("cry");
 function lament() {
+	cry();
 	setInterval(cry, 60000);
 }
 
