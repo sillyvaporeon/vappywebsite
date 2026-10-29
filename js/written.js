@@ -1,9 +1,12 @@
 function swimForth() {
-  document.getElementById("canvas").style.backgroundImage = "url('text.png')";
+  document.getElementById("thoughts").src = "text.png";
 }
 
-setInterval(lament, 55000);
 const snd = document.getElementById("cry");
 function lament() {
+	setInterval(cry, 60000);
+}
+
+function cry() {
 	snd.play();
 }
