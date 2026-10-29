@@ -175,6 +175,18 @@ div.smallb2 {
   outline-width: 8px;
 }
 
+div.vpsmol {
+  margin: auto;
+  margin-top: 2%;
+  max-width: 45%;
+  background-color: #73cfea;
+  text-align: center;
+  border-radius: 20%;
+  outline-style: groove;
+  outline-color: #2b377f;
+  outline-width: 8px;
+}
+
 div.source {
   margin: auto;
   max-width: 80%;
