@@ -1,5 +1,5 @@
 function swimForth() {
-  document.getElementById("thoughts").src = "text.png";
+  document.getElementById("thoughts").src = "imgs/text.png";
 }
 
 const snd = document.getElementById("cry");
